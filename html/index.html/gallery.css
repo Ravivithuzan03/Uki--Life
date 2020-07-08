@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+    color: white;
+    height: 2200px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.img{
+    height: 250px;
+    width: 100%;
+    float: left;
+}
+.gallery{
+    height: 200px;
+    width: 280px;
+    padding: 35px;
+}
+.link{
+    color: powderblue;
+    font-size: larger;
+    
+   
+
+}
